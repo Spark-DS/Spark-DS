@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Spark is great, let's get organized with those huge number of tables, columns, types! 👋
 
 <!--
 **Spark-DS/Spark-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
